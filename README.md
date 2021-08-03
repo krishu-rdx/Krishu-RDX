@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-    <img width="48%" src="https://github.com/krishu-rdx/Krishu-RDX/blob/main/SWAG.jpg" alt="Swag" />
+    <img width="60%" src="https://github.com/krishu-rdx/Krishu-RDX/blob/main/SWAG.jpg" alt="Swag" />
 </p>

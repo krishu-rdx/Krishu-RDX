@@ -1,6 +1,10 @@
 <h2 align="center">
   Welcome to Krishna Porje's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  
+<p align="center">
+    <img width="100%" src="https://github.com/krishu-rdx/Krishu-RDX/blob/main/SWAG.jpg" alt="Swag" />
+</p>
 </h2>
 <!--
 **krishu-rdx/Krishu-RDX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-    <img width="100%" src="https://github.com/krishu-rdx/Krishu-RDX/blob/main/SWAG.jpg" alt="Swag" />
-</p>
+

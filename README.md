@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" />        
   </a>&nbsp;&nbsp;
 <br>
+   <h2 align="center">
    <img src="https://visitor-badge.glitch.me/badge?page_id=krishu-rdx&style=flat-square&color=0088cc" />
 <br><br>
 <p align="center">

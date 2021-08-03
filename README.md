@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 <br>
 <p align="center">
-    <img width="100%" src="https://github.com/krishu-rdx/Krishu-RDX/blob/main/SWAG.jpg" alt="Swag" />
+    <br><img width="100%" src="https://github.com/krishu-rdx/Krishu-RDX/blob/main/SWAG.jpg" alt="Swag" />
 </p>
 </h2>
 <!--

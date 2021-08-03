@@ -24,7 +24,7 @@
   </a>&nbsp;&nbsp;
 <br>
    <img src="https://visitor-badge.glitch.me/badge?page_id=krishu-rdx&style=flat-square&color=0088cc" />
-<br>
+<br><br>
 <p align="center">
 <img width="100%" src="https://github.com/krishu-rdx/Krishu-RDX/blob/main/SWAG.jpg" alt="Swag" />
 </p>

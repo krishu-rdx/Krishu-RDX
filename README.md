@@ -22,7 +22,8 @@
   <a href="https://www.snapchat.com/add/krishnaporje">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" />        
   </a>&nbsp;&nbsp;
-
+<br>
+   <img src="https://visitor-badge.glitch.me/badge?page_id=krishu-rdx&style=flat-square&color=0088cc" />
 <br>
 <p align="center">
 <img width="100%" src="https://github.com/krishu-rdx/Krishu-RDX/blob/main/SWAG.jpg" alt="Swag" />
